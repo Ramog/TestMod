@@ -33,7 +33,7 @@ public class TutorialOreGen implements IWorldGenerator{
 			runGenerator(tutorial_ore, world, random, chunkX, chunkZ, 10, 10, 20);
 			break;
 		case 1:
-			runGenerator(end, world, random, chunkX, chunkZ, 15, 50, 255);
+			runGenerator(end, world, random, chunkX, chunkZ, 15, 11, 255);
 			break;
 		case -1:
 			runGenerator(nether, world, random, chunkX, chunkZ, 12, 20, 120);			

@@ -1,14 +1,16 @@
-package ramog.firstmod.init.blocks;
+package ramog.firstmod.init.block;
 
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
 
 public class CustomBlock extends Block{
-	public CustomBlock(String name, float hardness, float resistance) {
-		super(Material.ROCK);
+	
+
+	public CustomBlock(Material material, String name, float hardness, float resistance) {
+		super(material);
 		setUnlocalizedName(name);
 		setRegistryName(name);
 		setHardness(hardness);
-		setResistance(resistance);		
+		setResistance(resistance);
 	}
 }

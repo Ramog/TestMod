@@ -5,4 +5,6 @@ tile.tutorial_ore_nether.name=Nether Tutorial Ore
 tile.tutorial_ore_nether.name=End Tutorial Ore
 tile.tutorial_ingot_block.name=Tutorial Ingot Block
 
+tile.tutorial_generator.name=Tutorial Generator
+
 itemGroup.tutorialtab=Tutorial Mod
