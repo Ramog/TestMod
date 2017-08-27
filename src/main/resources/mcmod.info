@@ -1,0 +1,16 @@
+[
+{
+  "modid": "firstmod",
+  "name": "Firstmod",
+  "description": "The first mod ever created by Ramog, it is awesome isn't it? XD",
+  "version": "${version}",
+  "mcversion": "${1.12}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Ramog"],
+  "credits": "Ramog for finally getting his ass up and try modding",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,8 @@
+item.tutorial_ingot.name=Tutorial Ingot
+
+tile.tutorial_ore.name=Tutorial Ore
+tile.tutorial_ore_nether.name=Nether Tutorial Ore
+tile.tutorial_ore_nether.name=End Tutorial Ore
+tile.tutorial_ingot_block.name=Tutorial Ingot Block
+
+itemGroup.tutorialtab=Tutorial Mod
